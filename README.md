@@ -13,10 +13,10 @@ Implementation of Simplex Tableau algorithm in C++, for the  course CSC301 2024-
 | Name                         | Matric No.  | GitHub Username | Repository Link |
 |------------------------------|------------|----------------|----------------|
 | Adamu Mus'Ab                 | U22CS1008  | 5heis          | [Simplex-Tableau-CSC301](https://github.com/5heis/Simplex-Tableau-CSC301)        |
-| Ahmad Taufiq Maigari         | U22CS1016  | jaga1321       | [Simplex-Tableau-CSC301](https://github.com/jaga1321/Simplex-Tableau-CSC301)     |
+| Ahmad Taufiq Maigari         | U22CS1016  | jaga1321       | [Simplex-Tableau-CSC301](https://github.com/Jaga1321/u22-cs-1016)     |
 | Ahmed Al-Ameen Ohiani        | U22CS1018  | Ameen01        | [Simplex-Tableau-CSC301](https://github.com/Ameen01/Simplex-Tableau-CSC301)      |
 | Ajibade Caleb Adeyemi        | U22CS1020  | Zeaforx        | [Simplex-Tableau-CSC301](https://github.com/Zeaforx/Simplex-Tableau-CSC301)      |
-| Akpojosevbe Alex Ahmed       | U22CS1021  | Swayy713       | [Simplex-Tableau-CSC301](https://github.com/Swayy713/Simplex-Tableau-CSC301)     |
+| Akpojosevbe Alex Ahmed       | U22CS1021  | Swayy713       | [Simplex-Tableau-CSC301](https://github.com/Swayy713/Simplex-Algorithm-Structural-Programming-)|
 | Alamu Ibrahim                | U22CS1023  | Makanaki_662   | [Simplex-Tableau-CSC301](https://github.com/Makanaki_662/Simplex-Tableau-CSC301) |
 | Boman Zisan Alexander        | U22CS1036  | Zisan-bot      | [Simplex-Tableau-CSC301](https://github.com/Zisan-bot/Simplex-Tableau-CSC301)    |
 | Daboer Jordan An’ame         | U22CS1038  | daboerjordan   | [Simplex-Tableau-CSC301](https://github.com/daboerjordan/Simplex-Tableau-CSC301) |
